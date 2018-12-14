@@ -1,0 +1,26 @@
+{
+  "name": "lirinodeapp",
+  "version": "1.0.0",
+  "description": "A Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jberman11/LiriNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jberman11/LiriNodeApp/issues"
+  },
+  "homepage": "https://github.com/jberman11/LiriNodeApp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "imdb-api": "^4.0.2",
+    "moment": "^2.23.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
